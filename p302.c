@@ -25,6 +25,7 @@ void primecheck(int x , int y)
 {
 	int i, j, count;
 	
+	printf("add a new line");
 	for(i = x; i <= y ; i++)
 	{
 		count = 0;
