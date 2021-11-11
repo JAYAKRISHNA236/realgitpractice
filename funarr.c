@@ -6,6 +6,7 @@ void array(int arr[], int n);
 void main()
 {
 	int arr[30], n, i ;
+	printf("changed by razack\n");
 	printf("enter the size of an array ");
 	scanf("%d",&n);
 	printf("Enter the array values ");
