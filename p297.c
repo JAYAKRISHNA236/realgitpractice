@@ -7,7 +7,7 @@ void printline(int len);
 
 int main()
 {
-	int num;
+	unsigned int num;
         long cubed;
 	printf("Enter a number ");
 	scanf("%d", &num);
