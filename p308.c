@@ -23,4 +23,6 @@ int natural(int x, int y)
 		x++;
 		natural(x, y);
 	}
+	else if
+		hello;
 }
