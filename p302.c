@@ -13,6 +13,7 @@ void main()
 	printline();
 	primecheck(num1, num2);
 	printline();
+	printf("4");
 }
 void printline()
 {
